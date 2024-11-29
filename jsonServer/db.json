@@ -1,0 +1,19 @@
+{
+  "pharmacies": [
+    {
+      "name": "Sevinç Eczanesi",
+      "dist": "Çankaya",
+      "address": "Maltepe Mah. Güzaltan Sk. No:1/C Maltepe",
+      "phone": "0312 231 71 75",
+      "loc": "39.92887565500589,32.84444332122803"
+    },
+    {
+      "name": "Alper Yüce Eczanesi",
+      "dist": "Çankaya",
+      "address": "Angora Cad. No:154/Beysukent",
+      "phone": "0312 236 36 96",
+      "loc": "39.88566860058295,32.71559000015259"
+    }
+  ]
+}
+

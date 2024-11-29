@@ -1,0 +1,11 @@
+services:
+  postgres:
+    image: postgres:latest
+    container_name: postgres-spring-shell-schema
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: admin
+      POSTGRES_PASSWORD: pass123
+      POSTGRES_DB: spring_shell_schema
+    restart: always
